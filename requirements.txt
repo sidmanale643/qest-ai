@@ -1,0 +1,7 @@
+langgraph
+langchain_core
+dotenv
+llama_index.core
+llama_index.retrievers.bm25
+llama_index.embeddings.ollama
+llama_index.llms.ollama 
